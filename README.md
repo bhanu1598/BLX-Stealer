@@ -125,5 +125,3 @@ By downloading this, you agree to the Commons Clause license and that you're not
 [![Stargazers repo roster for @blxstealer/BLX-Stealer](https://reporoster.com/stars/blxstealer/BLX-Stealer)](https://github.com/blxstealer/BLX-Stealer/stargazers)
 
 <img  src="img/image2.png">
-
-
